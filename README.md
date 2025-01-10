@@ -1,1 +1,1 @@
-# stenography 
+ I worked on a Crop Billing System project. It aimed to streamline the billing process for agricultural transactions by automating calculations, managing inventory, and generating invoices. My contribution included designing the backend architecture, integrating the database for efficient data management, and implementing features like real-time calculations and report generation. The project enhanced operational efficiency for farmers and vendors.
